@@ -1,0 +1,12 @@
+[
+{
+  "modid": "com.kanomiya.mcmod.throwable",
+  "name": "Throwable Mod",
+  "description": "Adds the throwable",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://kanomiya.com",
+  "authorList": ["Kanomiya"],
+  "dependencies": []
+}
+]
